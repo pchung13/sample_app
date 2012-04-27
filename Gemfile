@@ -21,6 +21,7 @@ group :test do
 	gem 'autotest-rails-pure', '4.1.2'
 	gem 'ZenTest'
 	gem 'factory_girl_rails', '1.0'
+	gem 'database_cleaner'
 end
 
 # Use unicorn as the web server
